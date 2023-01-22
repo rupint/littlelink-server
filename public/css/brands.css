@@ -515,8 +515,26 @@ button {
   background-color: #fff
 }
 
+/* Vero */
+.button.button-vero {
+  color: #fff;
+  background-color: #000
+}
+
 /* MyAnimeList */
 .button.button-myAnimeList {
   color: #133a95;
   background-color: #fff
+}
+
+/* 500px */
+.button.button-500px {
+  color: #000;
+  background-color: #fff
+}
+
+/* jetphotos */
+.button.button-jetphotos {
+  color: #ffffff;
+  background-color: #000000;
 }
